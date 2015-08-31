@@ -26,3 +26,4 @@ x5 <- scan()
 
 # Clean the working directory by
 rm(list = ls())
+# End of the commit
